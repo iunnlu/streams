@@ -1,0 +1,51 @@
+{
+  "streams": [
+    {
+      "title": "gh",
+      "description": "g",
+      "id": 1
+    },
+    {
+      "title": "Yeni yayıncı",
+      "description": "Selam!",
+      "id": 2
+    },
+    {
+      "title": "Yeni yayın",
+      "description": "Gelin beyler",
+      "id": 3
+    },
+    {
+      "title": "asdasd",
+      "description": "asdasd",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "deneme1",
+      "description": "deneme2",
+      "id": 5
+    },
+    {
+      "title": "Anan",
+      "description": "Baban",
+      "id": 6
+    },
+    {
+      "title": "deneme1",
+      "description": "deneme3",
+      "id": 7
+    },
+    {
+      "title": "Deneme3",
+      "description": "Deneme4",
+      "id": 8
+    },
+    {
+      "title": "Deneme5",
+      "description": "Deneme5",
+      "userId": "106914763454257709479",
+      "id": 9
+    }
+  ]
+}
